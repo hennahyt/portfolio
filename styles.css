@@ -139,10 +139,10 @@ button.hxrcbutton2:hover {
 
 button {
     font-family: "Montserrat", sans-serif;
-    background-color: black;
+    background-color: white;
   border: solid 1px black;
   border-radius: 37px;
-  color: white;
+  color: black;
   padding: 18px 45px;
   text-align: center;
   text-decoration: none;
