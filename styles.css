@@ -1,10 +1,24 @@
 body {
-    max-width: 1000px;
-    margin-right: auto;
-    margin-left: auto;
-    padding: 30px;
+    margin: 0;
     font-family: "Montserrat", sans-serif;
     font-size: 18px;
+}
+
+.content {
+    max-width: 1000px;
+  margin: 0 auto;
+}
+
+.topsticky {
+    position: sticky;
+    top: 0;
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 12px;
+  padding-bottom: 12px;
 }
 
 .site-header {
@@ -38,6 +52,40 @@ h2 {
     font-weight: 500;
 }
 
+h3 {
+    margin: 0;
+    font-size: 64px;
+}
+
+.logo {
+  transition: transform 0.7s ease;
+}
+
+.logo:hover {
+  transform: rotate(360deg);
+}
+
+a {
+    cursor: pointer;
+}
+
+a.logolink {
+    color: black;
+    text-decoration: none;
+}
+
+button.contact {
+    color: white;
+    background-color: black;
+}
+
+button.contact:hover {
+    color: black;
+    background-color: white;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 button.field:hover {
     background-color: white;
     color: black;
@@ -47,6 +95,7 @@ button.readmore:hover {
     background-color: white;
     color: black;
     text-decoration: underline;
+    cursor: pointer;
 }
 
 button.readmore {
@@ -61,6 +110,31 @@ button.ofestbutton:hover {
 button.ofestbutton2:hover {
     background-color: #FA3D51;
     color: black;
+}
+
+button.auntiebutton:hover {
+    background-color: #fff028;
+    color: black;
+}
+
+button.auntiebutton2:hover {
+    background-color: #fdfad6;
+    color: black;
+}
+
+button.fraktiobutton:hover {
+    background-color: #ee0000;
+    color: white;
+}
+
+button.hxrcbutton:hover {
+    background-color: #008085;
+    color: white;
+}
+
+button.hxrcbutton2:hover {
+    background-color: #bf6153;
+    color: white;
 }
 
 button {
@@ -98,4 +172,20 @@ button {
 
 .projectimages {
     margin-right: 24px;
+}
+
+p.footer {
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.footer {
+    display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 12px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-top: 12px;
+  padding-bottom: 24px;
 }
