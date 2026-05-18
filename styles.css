@@ -53,6 +53,16 @@ button.readmore {
     margin: 0;
 }
 
+button.ofestbutton:hover {
+    background-color: #FFC94B;
+    color: black;
+}
+
+button.ofestbutton2:hover {
+    background-color: #FA3D51;
+    color: black;
+}
+
 button {
     font-family: "Montserrat", sans-serif;
     background-color: black;
@@ -84,4 +94,8 @@ button {
 
 .text-box {
   max-width: 500px;
+}
+
+.projectimages {
+    margin-right: 24px;
 }
