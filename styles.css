@@ -99,6 +99,8 @@ button.readmore:hover {
 }
 
 button.readmore {
+    background-color: white;
+    color: black;
     margin: 0;
 }
 
