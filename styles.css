@@ -159,6 +159,16 @@ button.planetbutton2:hover {
     color: black;
 }
 
+button.arkibutton:hover {
+    background-color: #90b9aa;
+    color: black;
+}
+
+button.arkibutton2:hover {
+    background-color: #ff6933;
+    color: black;
+}
+
 button.aiskabutton:hover {
     background-color: #e6077e;
     color: black;
