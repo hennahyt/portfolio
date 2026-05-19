@@ -149,6 +149,16 @@ button.oranssibutton2:hover {
     color: black;
 }
 
+button.planetbutton:hover {
+    background-color: #dc5fb4;
+    color: black;
+}
+
+button.planetbutton2:hover {
+    background-color: #8cbfd8;
+    color: black;
+}
+
 button {
     font-family: "Montserrat", sans-serif;
     background-color: black;
