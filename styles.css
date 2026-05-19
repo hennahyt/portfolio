@@ -169,6 +169,16 @@ button.aiskabutton2:hover {
     color: black;
 }
 
+button.auributton:hover {
+    background-color: #40AADC;
+    color: black;
+}
+
+button.auributton2:hover {
+    background-color: #FDB431;
+    color: black;
+}
+
 button {
     font-family: "Montserrat", sans-serif;
     background-color: black;
