@@ -209,6 +209,16 @@ button.loviisabutton2:hover {
     color: black;
 }
 
+button.matkabutton:hover {
+    background-color: #f16666;
+    color: black;
+}
+
+button.matkabutton2:hover {
+    background-color: #6f877b;
+    color: black;
+}
+
 button {
     font-family: "Montserrat", sans-serif;
     background-color: black;
