@@ -139,6 +139,16 @@ button.hxrcbutton2:hover {
     color: white;
 }
 
+button.oranssibutton:hover {
+    background-color: #f99100;
+    color: white;
+}
+
+button.oranssibutton2:hover {
+    background-color: #fc5e10;
+    color: white;
+}
+
 button {
     font-family: "Montserrat", sans-serif;
     background-color: black;
