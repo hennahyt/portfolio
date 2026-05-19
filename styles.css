@@ -126,27 +126,27 @@ button.auntiebutton2:hover {
 
 button.fraktiobutton:hover {
     background-color: #ee0000;
-    color: white;
+    color: black;
 }
 
 button.hxrcbutton:hover {
     background-color: #008085;
-    color: white;
+    color: black;
 }
 
 button.hxrcbutton2:hover {
     background-color: #bf6153;
-    color: white;
+    color: black;
 }
 
 button.oranssibutton:hover {
     background-color: #f99100;
-    color: white;
+    color: black;
 }
 
 button.oranssibutton2:hover {
     background-color: #fc5e10;
-    color: white;
+    color: black;
 }
 
 button {
