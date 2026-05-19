@@ -87,8 +87,8 @@ button.contact:hover {
 }
 
 button.field:hover {
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 button.readmore:hover {
