@@ -159,6 +159,16 @@ button.planetbutton2:hover {
     color: black;
 }
 
+button.aiskabutton:hover {
+    background-color: #e6077e;
+    color: black;
+}
+
+button.aiskabutton2:hover {
+    background-color: #fdeef6;
+    color: black;
+}
+
 button {
     font-family: "Montserrat", sans-serif;
     background-color: black;
