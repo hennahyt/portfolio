@@ -199,6 +199,16 @@ button.metrokvbutton2:hover {
     color: black;
 }
 
+button.loviisabutton:hover {
+    background-color: #a7c548;
+    color: black;
+}
+
+button.loviisabutton2:hover {
+    background-color: #dad266;
+    color: black;
+}
+
 button {
     font-family: "Montserrat", sans-serif;
     background-color: black;
