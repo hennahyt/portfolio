@@ -179,6 +179,16 @@ button.auributton2:hover {
     color: black;
 }
 
+button.metrokvbutton:hover {
+    background-color: #fca884;
+    color: black;
+}
+
+button.metrokvbutton2:hover {
+    background-color: #cff3d5;
+    color: black;
+}
+
 button {
     font-family: "Montserrat", sans-serif;
     background-color: black;
