@@ -74,161 +74,166 @@ a {
 }
 
 a.logolink {
-    color: black;
+    color: #050505;
     text-decoration: none;
 }
 
 button.contact {
-    background-color: white;
-    color: black;
+    background-color: #fFFFFF;
+    color: #050505;
 }
 
 button.contact:hover {
-    color: white;
-    background-color: black;
+    color: #fFFFFF;
+    background-color: #050505;
     text-decoration: underline;
     cursor: pointer;
 }
 
 button.field:hover {
-    background-color: white;
-    color: black;
+    background-color: #fFFFFF;
+    color: #050505;
 }
 
 button.readmore:hover {
-    background-color: black;
-    color: white;
+    background-color: #050505;
+    color: #fFFFFF;
     text-decoration: underline;
     cursor: pointer;
 }
 
 button.readmore {
-    background-color: white;
-    color: black;
+    background-color: #fFFFFF;
+    color: #050505;
     margin: 0;
 }
 
 button.ofestbutton:hover {
     background-color: #FFC94B;
-    color: black;
+    color: #050505;
 }
 
 button.ofestbutton2:hover {
     background-color: #FA3D51;
-    color: black;
+    color: #050505;
 }
 
 button.auntiebutton:hover {
     background-color: #fff028;
-    color: black;
+    color: #050505;
 }
 
 button.auntiebutton2:hover {
     background-color: #fdfad6;
-    color: black;
+    color: #050505;
 }
 
 button.fraktiobutton:hover {
     background-color: #ee0000;
-    color: black;
+    color: #050505;
+}
+
+button.fraktiobutton2:hover {
+    background-color: #FF9494;
+    color: #050505;
 }
 
 button.hxrcbutton:hover {
     background-color: #008085;
-    color: black;
+    color: #050505;
 }
 
 button.hxrcbutton2:hover {
     background-color: #bf6153;
-    color: black;
+    color: #050505;
 }
 
 button.oranssibutton:hover {
     background-color: #f99100;
-    color: black;
+    color: #050505;
 }
 
 button.oranssibutton2:hover {
     background-color: #fc5e10;
-    color: black;
+    color: #050505;
 }
 
 button.planetbutton:hover {
     background-color: #dc5fb4;
-    color: black;
+    color: #050505;
 }
 
 button.planetbutton2:hover {
     background-color: #8cbfd8;
-    color: black;
+    color: #050505;
 }
 
 button.arkibutton:hover {
     background-color: #90b9aa;
-    color: black;
+    color: #050505;
 }
 
 button.arkibutton2:hover {
     background-color: #ff6933;
-    color: black;
+    color: #050505;
 }
 
 button.aiskabutton:hover {
     background-color: #e6077e;
-    color: black;
+    color: #050505;
 }
 
 button.aiskabutton2:hover {
     background-color: #fdeef6;
-    color: black;
+    color: #050505;
 }
 
 button.auributton:hover {
     background-color: #40AADC;
-    color: black;
+    color: #050505;
 }
 
 button.auributton2:hover {
     background-color: #FDB431;
-    color: black;
+    color: #050505;
 }
 
 button.metrokvbutton:hover {
     background-color: #fca884;
-    color: black;
+    color: #050505;
 }
 
 button.metrokvbutton2:hover {
     background-color: #cff3d5;
-    color: black;
+    color: #050505;
 }
 
 button.loviisabutton:hover {
     background-color: #a7c548;
-    color: black;
+    color: #050505;
 }
 
 button.loviisabutton2:hover {
     background-color: #dad266;
-    color: black;
+    color: #050505;
 }
 
 button.matkabutton:hover {
     background-color: #f16666;
-    color: black;
+    color: #050505;
 }
 
 button.matkabutton2:hover {
     background-color: #6f877b;
-    color: black;
+    color: #050505;
 }
 
 button {
     font-family: "Montserrat", sans-serif;
-    background-color: black;
-  border: solid 1px black;
+    background-color: #050505;
+  border: solid 1px #050505;
   border-radius: 37px;
-  color: white;
+  color: #fFFFFF;
   padding: 18px 45px;
   text-align: center;
   text-decoration: none;
