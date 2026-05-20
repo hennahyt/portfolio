@@ -109,6 +109,13 @@ button.readmore {
     margin: 0;
 }
 
+button.readmore2 {
+    background-color: #fFFFFF;
+    color: #050505;
+    border: solid 1px #050505;;
+    margin: 0;
+}
+
 button.ofestbutton:hover {
     background-color: #FFC94B;
     color: #050505;
