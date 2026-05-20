@@ -278,6 +278,11 @@ button {
   border-radius: 24px;
 }
 
+.project-text {
+    background-color: #E9E9E9;
+    border-radius: 24px;
+}
+
 .projectimages {
     max-width: 450px;
     margin-right: 24px;
