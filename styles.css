@@ -274,7 +274,8 @@ button {
   padding-bottom: 32px;
   padding-right: 32px;
   padding-left: 32px;
-  background: #f2f2f2;
+  background-color: #050505;
+    color: #fFFFFF;
   border-radius: 24px;
 }
 
