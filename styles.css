@@ -139,12 +139,12 @@ button.fraktiobutton2:hover {
 }
 
 button.hxrcbutton:hover {
-    background-color: #008085;
+    background-color: #00ADB3;
     color: #050505;
 }
 
 button.hxrcbutton2:hover {
-    background-color: #bf6153;
+    background-color: #CF867D;
     color: #050505;
 }
 
@@ -154,12 +154,12 @@ button.oranssibutton:hover {
 }
 
 button.oranssibutton2:hover {
-    background-color: #fc5e10;
+    background-color: #FD6A21;
     color: #050505;
 }
 
 button.planetbutton:hover {
-    background-color: #dc5fb4;
+    background-color: #E175BF;
     color: #050505;
 }
 
@@ -179,7 +179,7 @@ button.arkibutton2:hover {
 }
 
 button.aiskabutton:hover {
-    background-color: #e6077e;
+    background-color: #F95DB0;
     color: #050505;
 }
 
@@ -209,22 +209,22 @@ button.metrokvbutton2:hover {
 }
 
 button.loviisabutton:hover {
-    background-color: #a7c548;
+    background-color: #BDD373;
     color: #050505;
 }
 
 button.loviisabutton2:hover {
-    background-color: #dad266;
+    background-color: #E6E198;
     color: #050505;
 }
 
 button.matkabutton:hover {
-    background-color: #f16666;
+    background-color: #F26E6E;
     color: #050505;
 }
 
 button.matkabutton2:hover {
-    background-color: #6f877b;
+    background-color: #8CA196;
     color: #050505;
 }
 
