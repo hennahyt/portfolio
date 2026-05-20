@@ -37,6 +37,10 @@ h1 {
     margin-left: 12px;
 }
 
+p {
+    font-family: "Manrope", sans-serif;
+}
+
 p.shortinfo {
     margin-top: 0;
     margin-left: 12px;
