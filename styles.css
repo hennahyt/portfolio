@@ -279,7 +279,8 @@ button {
 }
 
 .project-text {
-    background-color: #E9E9E9;
+    background-color: #050505;
+    color: #fFFFFF;
     border-radius: 24px;
     padding: 32px;
 }
