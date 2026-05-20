@@ -278,11 +278,18 @@ button {
   border-radius: 24px;
 }
 
+p.white {
+  color: #fFFFFF;  
+}
+
 .project-text {
     background-color: #050505;
     color: #fFFFFF;
     border-radius: 24px;
-    padding: 32px;
+    padding-top: 20px;
+  padding-bottom: 32px;
+  padding-right: 32px;
+  padding-left: 32px;
 }
 
 .projectimages {
