@@ -243,6 +243,7 @@ button {
   margin-left: 12px;
   margin-top: 12px;
   margin-bottom: 12px;
+  transition: 0.4s;
 }
 
 .card {
@@ -299,7 +300,7 @@ button {
 .accordion {
   background-color: #050505;
   color: #fFFFFF;
-  border: 1px solid #fFFFFF;
+  border: 1px solid #050505;
   cursor: pointer;
   padding: 18px;
   width: 100%;
@@ -317,10 +318,12 @@ button {
 .panel {
     font-family: "Montserrat", sans-serif;
   padding: 0 18px;
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.2s ease-out;
+  margin-left: 24px;
+  margin-right: 24px;
 }
 
 button.accordion {
