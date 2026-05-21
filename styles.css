@@ -315,6 +315,7 @@ button {
 }
 
 .panel {
+    font-family: "Montserrat", sans-serif;
   padding: 0 18px;
   background-color: white;
   max-height: 0;
