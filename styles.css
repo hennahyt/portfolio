@@ -339,6 +339,7 @@ p.footer {
 }
 
 .footer {
+    background-color: #050505;
     display: flex;
   justify-content: space-between;
   align-items: center;
