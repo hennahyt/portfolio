@@ -254,7 +254,7 @@ button {
 }
 
 .card img {
-  width: auto;
+  max-width: 350px;
   height: auto;
   border-radius: 24px;
 }
