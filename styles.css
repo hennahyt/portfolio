@@ -248,8 +248,8 @@ button {
 
 .card {
   display: flex;
-  align-items: center;   /* vertically aligns items */
-  gap: 48px;             /* space between image and text */
+  align-items: center;
+  gap: 48px;
   margin-bottom: 28px;
 }
 
@@ -270,7 +270,7 @@ button {
 }
 
 .othertext-box {
-  flex: 1;              /* both boxes take equal width */
+  flex: 1;
   padding-top: 20px;
   padding-bottom: 32px;
   padding-right: 32px;
