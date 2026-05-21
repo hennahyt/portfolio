@@ -296,6 +296,39 @@ button {
     margin-right: 24px;
 }
 
+.accordion {
+  background-color: #050505;
+  color: #fFFFFF;
+  border: 1px solid #fFFFFF;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  text-align: left;
+  outline: none;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #fFFFFF;
+  color: #050505;
+  border: 1px solid #050505;
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+button.accordion {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
 p.footer {
     font-size: 16px;
     text-transform: uppercase;
