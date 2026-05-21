@@ -339,13 +339,9 @@ p.footer {
 }
 
 .footer {
-    background-color: #050505;
     display: flex;
   justify-content: space-between;
   align-items: center;
   margin-top: 12px;
-  padding-left: 24px;
-  padding-right: 24px;
-  padding-top: 12px;
-  padding-bottom: 24px;
+  padding: 40px;
 }
