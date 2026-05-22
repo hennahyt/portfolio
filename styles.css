@@ -196,7 +196,8 @@ button {
 
 .projectimages {
     max-width: 800px;
-    margin-right: 24px;
+    display: block;
+  margin: auto;
 }
 
 .accordion {
