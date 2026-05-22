@@ -251,14 +251,11 @@ p.footer {
 }
 
 .footer {
-    background-color: #050505;
-    color: white;
-    display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-top: 60px;
-  padding-left: 24px;
-  padding-right: 24px;
-  padding-top: 24px;
-  padding-bottom: 24px;
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #050505;
+   color: white;
+   text-align: center;
 }
