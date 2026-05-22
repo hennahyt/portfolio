@@ -152,7 +152,8 @@ button {
 
 .card.reverse {
     flex-direction: row-reverse;
-    gap: 48px;
+    gap: 64px;
+    padding-left: 64px;
 }
 
 .card img {
