@@ -172,7 +172,7 @@ button {
 }
 
 .othertext-box {
-  flex: 1;              /* both boxes take equal width */
+  flex: 1;              
   padding-top: 20px;
   padding-bottom: 32px;
   padding-right: 32px;
